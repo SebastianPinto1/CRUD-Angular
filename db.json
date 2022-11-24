@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Hp pavilon",
+      "category": "Laptop",
+      "estado": "Nuevo",
+      "precio": 2400000,
+      "comentario": "Tarjeta grafica integrada",
+      "date": "2022-11-21T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Azus ",
+      "category": "PC",
+      "estado": "Segunda Mano",
+      "precio": 1500000,
+      "comentario": "Tres meses de uso, no tiene daños.",
+      "date": "2022-07-19T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "kalley s2",
+      "category": "Telefono",
+      "estado": "Nuevo",
+      "precio": 600000,
+      "comentario": "12 gb de ram y 40 gb de almacenamiento",
+      "date": "2022-11-08T05:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Samsung A32",
+      "category": "Telefono",
+      "estado": "Nuevo",
+      "precio": 1000000,
+      "comentario": "16 Gb de RAM, pantalla de 4 pulgadas",
+      "date": "2022-11-08T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Alcatel",
+      "category": "Telefono",
+      "estado": "Revisado",
+      "precio": 450000,
+      "comentario": "Equipo revisado previamente para su venta.",
+      "date": "2022-11-02T05:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Msi",
+      "category": "Laptop",
+      "estado": "Nuevo",
+      "precio": 4500000,
+      "comentario": "Equipo de alta gama soporta juegos de grandes graficos gtx 1060",
+      "date": "2022-11-02T05:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
